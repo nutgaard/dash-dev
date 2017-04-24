@@ -1,0 +1,15 @@
+{
+  "name": "dash-dev",
+  "version": "0.0.1",
+  "description": "Developer dashboard",
+  "main": "index.js",
+  "author": "Nicklas Utgaard",
+  "license": "MIT",
+  "scripts": {
+    "lerna": "lerna",
+    "bootstrap": "lerna bootstrap --hoist --npm-client=yarn"
+  },
+  "dependencies": {
+    "lerna": "^2.0.0-rc.3"
+  }
+}
